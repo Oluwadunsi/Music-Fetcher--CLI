@@ -36,5 +36,3 @@ The reason I chose to create this project was because I noticed a lot of CLI pro
    ```bash
    git clone https://github.com/yourusername/music-fetcher-cli
    cd music-fetcher-cli
-
-   <img width="950" height="705" alt="image" src="https://github.com/user-attachments/assets/743a03aa-f127-4642-a783-30babae9b2d3" />
