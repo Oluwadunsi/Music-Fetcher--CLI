@@ -1,0 +1,28 @@
+{
+  "name": "music-fetcher--cli",
+  "version": "1.0.0",
+  "description": "A Command Line Interface that integrates with Spotify API to interact and fetch music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwadunsi/Music-Fetcher--CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwadunsi/Music-Fetcher--CLI/issues"
+  },
+  "homepage": "https://github.com/Oluwadunsi/Music-Fetcher--CLI#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "chalk": "^4.1.2",
+    "commander": "^14.0.0",
+    "dotenv": "^17.2.1",
+    "mysql2": "^3.14.4",
+    "open": "^8.4.2"
+  }
+}
